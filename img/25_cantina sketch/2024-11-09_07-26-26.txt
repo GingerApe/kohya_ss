@@ -1,0 +1,1 @@
+Mechanic machine, representing a tape recorder with three different letters on the three tapes. Rotating. Caption: fog wiper (english)
